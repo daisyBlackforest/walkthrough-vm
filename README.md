@@ -1,3 +1,3 @@
-# walkthrough-vm
+# walkthrough-CTF
 
-This repo contains walkthrough of vulnerable machines that I have solved.
+This repo contains walkthrough of CTFs that I participated.
